@@ -1,0 +1,39 @@
+Movement Rounds (Each Major nation takes their round completely) (Allies can take movement at same time)
+    Roll for PAP (Every round except first, controlled nation with at least one native-owned and liberated capital) (No PA)
+
+    Sea Movement and Naval Battles
+    Land and Amphibious Movement
+    Land Battles
+
+
+
+Production Rounds (Only Political Action that can be taken - Enforce Continental System)
+    Enforce Continental System
+    1 PAP to France (if Napoleon in Paris and Paris is liberated)
+    Colonial Trade
+        Only occurs only during September Production Round
+
+    Production Turn (Each Major nation takes their turn completely)
+        Disbanding Militia
+        Training Militia
+        Spending Production Points
+        Placing Pieces
+
+    Harsh Campaigns
+    Successful Uprisings
+    Lines of Communications
+
+
+
+When Political Actions Can Not Be Taken:
+--------------------------------------------------------
+During Rolls for PAP
+Start of Movement Turns (Moving Nation has first go) - Popup to ask this?
+During Naval/Port Attacks
+During Land Battles (Exception Right of Passage may be granted during retreat to retreating nation)
+End of Turn (Only commitment rolls and Sue for Peace)
+During Production Round (Exception Enforce Continental System)
+During Diplomatic Round (After nations resolves voluntary political action, following turn order each nation can do one voluntary political action)
+
+
+

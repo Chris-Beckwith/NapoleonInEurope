@@ -1,0 +1,37 @@
+London East - Yarmouth
+London West - Bristol
+London South - Portsmouth
+Cornwall - Plymouth
+Midlands - Liverpool
+Ireland - Waterford
+Sweden North (Gulf of Bothnia) - Stockholm
+Sweden South (Baltic Sea) - Karlskrona 
+St. Petersburg - Kronstadt
+Pomerania (East Prussia) - best would be to consider it Danzig and move it to Pomerania
+Denmark - Copenhagen
+Holland - Flushing
+Belgium - Antwerp
+Picardy - Boulogne
+Brittany - Brest
+Vendee - Rochefort
+Asturias - Ferrol
+Portugal - Lisbon
+Western Spain - Cadiz
+Gibraltar - Gibraltar
+Andalusia - Cartegena
+Provence - Toulon
+Milan - Genoa
+Naples - Naples
+Sicily - Palermo
+Venice - Venice
+Illyria - Trieste
+Macedonia (Greece West) - Corfu, I'm going to move this to Macedonia (West side)
+Greece East - Athens
+Constantinople - Constantinople (Golden Horn)
+Crimea - Sevastopol
+Anatolia North - Izmit
+Anatolia South - Rhodes
+Egypt - Alexandria
+Algeria - Algiers
+
+the original one in Tuscany would be Leghorn/Livorno

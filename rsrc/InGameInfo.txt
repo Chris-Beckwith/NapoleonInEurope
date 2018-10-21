@@ -1,0 +1,130 @@
+Display on main menus
+~~~~~~~~~~~~~~~~~~
+Round
+Turn
+Menus
+Chat (Global/Events, Private)
+Territory Info
+Dice Rolls?
+Mini Map
+
+Display on the Map
+~~~~~~~~~~~~~~~
+Army Marker
+Fleet Marker
+Territory Marker
+General Marker
+Admiral Marker
+Ports
+Capitals
+PAPs (maybe)
+
+Menus
+~~~~~~
+Political Actions
+Political Positions
+Show Event Log
+Commanders Log - Note pad?
+Commander Info - ComCards
+Open Battle Window - only displayed (or clickable) if battle window is being used.
+Nation Summary
+Reference Cards - what?
+Definitions
+Save
+Help
+About
+Quit
+
+
+Game   	              Info   		Actions   Help
+~~~~   	              ~~~   		~~~~~~   ~~~~
+End "Step"            Events Log			Definitions
+My Summary        Nation Summary		About
+My Commander   Commander Info        		Help
+Battle Window     Political Status Info
+Save                       Capital Status
+Quit                       
+	            
+
+
+
+ChatNation Menus
+~~~~~~~~~~~~~~~
+Declare War
+Conclude Armistice
+Form Alliance
+Break Alliance
+Grant Right of Passage
+Rescind Right of Passage
+Nation Summary
+Commander Info
+
+
+
+Sub Menus
+~~~~~~~~~
+
+Political Actions - Only displayed (or clickable) if action is allowed.
+~~~~~~~~~~~~~
+Declare War
+Sue for Peace
+Conclude Armistice
+Form Alliance
+Break Alliance
+Recruit Minor Nation
+Annex Minor Nation
+Restore Region
+Abandon Region
+Foment Uprising
+Suppress Uprising
+Grant Right of Passage
+Rescind Right of Passage
+Enforce Continental System
+Control Non-Player Nation
+
+
+Political Positions
+~~~~~~~~~~~~~~
+Alliances/War Declarations
+Rights of Passage
+Captured Capitals
+Grace Periods (Reverse Grace Period)
+
+
+Capital Status
+~~~~~~~~~~~
+Paris (France) -- Liberated
+London (Great Britian) -- Liberated
+Berlin (Prussia) -- Liberated
+St. Petersburg (Russia) -- Liberated
+Moscow (Russia) -- Liberated
+Constantinople (Ottoman) -- Liberated
+Vienna (Austria) -- Liberated
+Madrid (Spain) -- Liberated
+
+
+Grace Periods
+~~~~~~~~~~~
+Great Britian from France, 
+    Prussia, Russia, Spain
+    Until Sept, 1821
+
+
+Nation Summary
+~~~~~~~~~~~~~
+Total Military:
+    Infantry - 10
+    Cavalry - 4
+    Artillery - 2
+
+Regions Controlled:
+    Vienna - Captial
+    Hungary
+    Transylvinia
+    Papel States
+
+Production Value: 30
+
+Production Saved: 12
+
+PAPs: 2

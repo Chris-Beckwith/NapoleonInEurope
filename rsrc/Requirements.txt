@@ -1,0 +1,21 @@
+Unviewed chat window shall flash when new message received.
+Unviewed chat window shall display different color when there is an unread message.
+Currently viewed chat window shall be highlighted.
+Right clicking in chat field shall display menu to switch chat window.
+Events shall displayed in the following fashion:
+	(Sept, 1820) - event_that_took_place.
+Events shall be posted in the global chat window.
+Events shall be added to the events log.
+
+The rounds (months) shall be listed as follows:
+	Jan | Feb | Mar | Apr | May | June | July | Aug | Sept | Oct | Nov | Dec
+
+
+
+Hotkeys
+~~~~~~~
+PageUp - Zoom In
+PageDown - Zoom Out
+
+
+Name each port? Ports clickable?  Show whats in the ports in region description?

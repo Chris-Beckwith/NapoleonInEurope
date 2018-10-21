@@ -1,0 +1,3 @@
+#Error Properties
+errorMsg.emptyUser:Please enter a User Name
+errorMsg.noServerResponse:No response received from the server

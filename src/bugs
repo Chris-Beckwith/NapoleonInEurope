@@ -1,0 +1,7 @@
+Second user joining game sometimes creates a duplicate of itself, only seen on first game on fresh servers.  Can't reproduce.
+
+If second user has same name as host they are host
+
+Placement Panel - Scrolling with arrow keys - Can cut off drop down when goign from region that contains dropdown to once where drop down goes past bottom.
+
+Sometimes upon loading game one of the clients fails to load throwning an error on GameNotFoundPacket

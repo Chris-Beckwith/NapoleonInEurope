@@ -1,0 +1,236 @@
+#Default Properties
+#Wed Mar 28 10:50:08 PDT 2012
+
+frame.title:Napoleon In Europe
+server.address:localhost
+game.server.address:localhost
+
+##
+# Login
+##
+login.name:loginButton
+Login.name:LoginPanel
+userName.name:userField
+login.desc:Click to login.
+login.button:Login
+default.name:defaultBox
+default.title:Use as default User Name
+
+##
+# Main Menu
+##
+create.button:Create Game
+create.action:createAction
+join.button:Join Game
+join.action:joinAction
+
+##
+# Create Lobby
+##
+cl.create.button:Create
+cl.create.action:createAction
+cl.cancel.button:Cancel
+cl.cancel.action:cancelAction
+cl.lobbyName.name:lobbyName
+cl.description.msg:Please enter the lobby name
+cl.errorMsg.lobbyExists:Lobby name already exists.
+cl.errorMsg.toLong:Lobby name is too long.
+cl.errorMsg.enterName:Please enter a lobby name.
+
+##
+# Join Lobby
+##
+jl.refresh.button:Refresh
+jl.refresh.action:refreshAction
+jl.join.button:Join
+jl.join.action:joinAction
+jl.lobbyList.name:lobbyList
+jl.back.button:Back
+jl.back.action:backAction
+jl.selectLobby:Please select a lobby to join:
+jl.fullLobby:The lobby you selected is full.
+jl.startedLobby:The lobby you selected has started.
+
+
+##
+# Lobby
+##
+editDesc.button=edit
+editPlayer1Desc.action=editPlayer1DescAction
+editPlayer2Desc.action=editPlayer2DescAction
+editPlayer3Desc.action=editPlayer3DescAction
+editPlayer4Desc.action=editPlayer4DescAction
+editPlayer5Desc.action=editPlayer5DescAction
+editPlayer6Desc.action=editPlayer6DescAction
+editPlayer7Desc.action=editPlayer7DescAction
+makeReady.button=Make Ready
+makeReady.action=makeReady.action
+start.button=Start Game
+start.action=start.action
+start.title=Not Everyone is Ready
+start.yes=Start Game
+start.no=Wait
+start.question=Not everyone has made ready.\nWould you like to start anyways?
+abort.action=abort.action
+abort.button=Abort Countdown
+
+Lobby.name=LobbyPanel
+chatSend.button=Send
+chatSend.action=chatSendAction
+chatMessage.name=chatMessage
+chatWindow.name=chatWindow
+
+load.name:Load
+load.action:load.action
+unload.name:Unload
+unload.action:unload.action
+
+currentRoundYear:Current (Round, Year):
+
+##
+# Game Options
+##
+gameMode.label=Game Mode:
+gameScene.label=Game Scenario:
+gameDuration.label=Game Duration:
+
+gameMode.Empire=Empire
+gameMode.Team=Team
+
+gameScene.I=Scenario I (April, 1796)
+gameScene.II=Scenario II (April, 1800)
+gameScene.III=Scenario III (April, 1802)
+gameScene.IV=Scenario IV (September, 1805)
+gameScene.V=Scenario V (September, 1806)
+gameScene.V.V=Scenario V.V (January, 1808)
+gameScene.VI=Scenario VI (April, 1809)
+gameScene.VII=Scenario VII (June, 1812)
+gameScene.VIII=Scenario VIII (March, 1813)
+gameScene.IX=Scenario IX (June, 1815)
+gameScene.X=Scenario X (March, 1820)
+
+gameDuration.6=.5 Game Year (6 rounds)
+gameDuration.12=1 Game Year (12 rounds)
+gameDuration.18=1.5 Game Years (18 rounds)
+gameDuration.24=2 Game Years (24 rounds)
+gameDuration.36=3 Game Years (36 rounds)
+gameDuration.48=4 Game Years (48 rounds)
+
+quickBattle.label=Use Quick Battles
+heroes.label=Allow National Heroes
+forceMarch.label=Allow Force March
+skirmish.label=Allow Skirmish
+counterCharge.label=Allow Counter Charge
+elite.label=Allow Elite Units
+generals.label=Allow Generals
+admirals.label=Allow Admirals
+rightOfPassage.label=Right of Passage
+uprising.label=Uprisings
+voluntaryPAP.label=Allow Voluntary Political Actions
+controlNPN.label=Control Non-Player Nations
+annex.label=Allow Annex Nation
+recruit.label=Allow Recruit Nation
+restore.label=Allow Restore Region
+continentalSystem.label=Enforce Continental System
+raiseMilitiaBySea.label=Raise Militia by Sea Invasions
+raiseMilitiaByLand.label=Raise Militia by Land Invasions
+harshCampaign.label=Harsh Campaigns
+blindSetup.label=Blind Setup
+
+gameMode.action=gameMode.action
+gameScene.action=gameScene.action
+gameDuration.action=gameDuration.action
+
+quickBattle.action=quickBattle.action
+heroes.action=heroes.action
+forceMarch.action=forceMarch.action
+skirmish.action=skirmish.action
+counterCharge.action=counterCharge.action
+elite.action=elite.action
+generals.action=generals.action
+admirals.action=admirals.action
+rightOfPassage.action=rightOfPassage.action
+uprising.action=uprising.action
+voluntaryPAP.action=voluntaryPAP.action
+controlNPN.action=controlNPN.action
+annex.action=annex.action
+recruit.action=recruit.action
+restore.action=restore.action
+continentalSystem.action=continentalSystem.action
+raiseMilitiaBySea.action=raiseMilitiaBySea.action
+raiseMilitiaByLand.action=raiseMilitiaByLand.action
+harshCampaign.action=harshCampaign.action
+blindSetup.action=blindSetup.action
+
+quickBattle.tip:Battles do not use 'battlefield', battles are only a set of rolls.
+heroes.tip:Commanders for each nation with extra abilities. Not available in all scenarios.
+forceMarch.tip:Some units can be forced to march extra distance in one round.
+skirmish.tip:
+counterCharge.tip:
+elite.tip:
+generals.tip:
+admirals.tip:
+rightOfPassage.tip:
+uprising.tip:
+voluntaryPAP.tip:
+controlNPN.tip:
+annex.tip:
+recruit.tip:
+restore.tip:
+continentalSystem.tip:
+raiseMilitiaBySea.tip:
+raiseMilitiaByLand.tip:
+harshCampaign.tip:
+blindSetup.tip:Nations set up military without seeing other nations military. 
+
+
+##
+# Country Description
+##
+save.name=saveButton
+save.button=Done
+desc.name=descriptionField
+NationDesc.name=NationDescriptionPanel
+
+
+##
+# Country Defaults
+##
+nation.1=France
+nation.1.leader=Napoleon
+nation.1.adjective=Chump
+
+nation.2=Great Britain
+nation.2.leader=Churchill
+nation.2.adjective=Da Masta
+
+nation.3=Prussia
+nation.3.leader=Winchester
+nation.3.adjective=Guns
+
+nation.4=Russia
+nation.4.leader=Sidirov
+nation.4.adjective=Oops
+
+nation.5=Ottoman Empire
+nation.5.leader=Gandhi
+nation.5.adjective=Peaceful
+
+nation.6=Austira/Hungary
+nation.6.leader=Leiberich
+nation.6.adjective=All Mighty
+
+nation.7=Spain
+nation.7.leader=FrenchBitch
+nation.7.adjective=Chumpette
+
+nation.0=Random
+nation.0.leader=Random
+
+
+##
+# Misc
+##
+countdown.msg.first=The game will be starting in
+countdown.msg.last=Seconds.
+countdown.msg.abort=The countdown has been stopped.

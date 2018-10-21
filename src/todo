@@ -1,0 +1,72 @@
+//todo
+Change how reading (and prob writing) to property files.  ??? Don't know what I mean't for this anymore.
+
+Change preferences to use Preference class
+
+Captured Capitals stuff (currently in nationInstance)
+
+Figure out what to do when thread times out or fails..
+
+Disable uncontrolled nations on chat chooser. (color code them)
+
+Fix confirm action to include the doNation.
+
+Consolidate all Political Actions as methods in PoliticalUtilities.
+
+Allow multiple NationSummaryDialogs to be displayed (other dialogs?)
+
+Multipage Territory Info.. still need this??
+
+When/How to know when to destroy a game from the server list?
+
+Setup Load Game.  Need to setup Save files first though.
+
+Add check to make sure the correct number of players are in lobby before starting game. eg. 2+
+
+Finish tooltips in lobby.
+
+How to move units around map, fire, etc.
+    Packet (uType, uAction, uLoc, uDest)
+
+Server stores what?  Client stores what?
+    Server keeps Map instance but client does do so as not to query server as much.
+    if Map instance gets out of sync then request an updated one from the server.
+
+
+ * Prussia/Ottoman only - Militia (Starting March 1813)
+ * Russian/Ottoman only - Irregular Cavalry
+ * Spain can not - Elite Infantry or Heavy Cavalry
+ * Ottoman can only make - Militia, Irregular Cavalry, General, Admiral, Naval Squadron, Artillery
+
+Austria,
+France/GB:  General         Prussia: General         Russia: General        Ottoman: General
+            Infantry                 Infantry                Infantry                Artillery (can only own 1 total)
+            E. Infantry              E. Infantry             E. Infantry             Irregular Cavalry
+            Artillery                Artillery               Artillery               Militia
+            H. Artillery             H. Artillery            H. Artillery            Admiral or NS
+            Cavalry                  Cavalry                 Cavalry
+            H. Cavalry               H. Cavalry              H. Cavalry
+            Admiral or NS            Admiral or NS           Admiral or NS
+                                     Militia                 Irregular Cavalry
+
+Spain:      General
+            Infantry
+            Artillery
+            H. Artillery
+            Cavalry
+            Admiral or NS
+
+
+Most Unit Types in Region
+-------------------------
+France/GB/Austria - 7
+Prussia/Russia - 8
+Ottoman - 4
+Spain - 5
+
+Most Unit Types in Placement Panel
+----------------------------------
+France/GB/Austria - 8 (unplaced) + 7 (placed) + 7 (region) + Allied Units..
+Prussia/Russia - 9 (unplaced) +
+Ottoman - 5 (unplaced) +
+Spain - 6 (unplaced) +

@@ -1,0 +1,734 @@
+
+##
+# Months
+##
+month.1:Jan
+month.2:Feb
+month.3:Mar
+month.4:Apr
+month.5:May
+month.6:June
+month.7:July
+month.8:Aug
+month.9:Sept
+month.10:Oct
+month.11:Nov
+month.12:Dec
+month.full.1:January
+month.full.2:February
+month.full.3:March
+month.full.4:April
+month.full.5:May
+month.full.6:June
+month.full.7:July
+month.full.8:August
+month.full.9:September
+month.full.10:October
+month.full.11:November
+month.full.12:December
+
+##
+# Nations - Proper
+##
+nation.1:France
+nation.2:Great Britain
+nation.3:Prussia
+nation.4:Russia
+nation.5:The Ottoman Empire
+nation.6:Austria-Hungary
+nation.7:Spain
+nation.0:Minor Nation
+nation.8:Cthulhu
+
+##
+# Nations - Possesive
+##
+nation.pos.1:French
+nation.pos.2:British
+nation.pos.3:Prussian
+nation.pos.4:Russian
+nation.pos.5:Ottoman
+nation.pos.6:Austrian
+nation.pos.7:Spanish
+nation.pos.0:Minor Nation
+
+##
+# ChatWindow
+##
+cw.send:Send
+cw.send.action:sendAction
+cw.homeAction:homeAction
+cw.backspaceAction:backspaceAction
+cw.leftAction:leftAction
+cw.enterAction:enterAction
+
+cw.nation.1:To France:
+cw.nation.2:To Great Britain:
+cw.nation.3:To Prussia:
+cw.nation.4:To Russia:
+cw.nation.5:To Ottoman Empire:
+cw.nation.6:To Austria:
+cw.nation.7:To Spain:
+cw.nation.8:To Europe:
+
+##
+# ChatChooser
+##
+cc.global.label:Europe
+cc.france.label:France
+cc.greatBritain.label:Great Britain
+cc.prussia.label:Prussia
+cc.russia.label:Russia
+cc.ottoman.label:Ottoman Empire
+cc.austria.label:Austria-Hungary
+cc.spain.label:Spain
+cc.team.label:Allies
+
+##
+# Round/Turn
+##
+rt.roundLabel:Round:
+rt.productionRoundLabel:Production End Of:
+rt.turnLabel:Turn:
+rt.stepLabel:Step:
+rt.actionOnLabel:Action On:
+rt.step.0:Start of Game
+rt.step.1:Roll For PAP
+rt.step.2:Start of Turn
+rt.step.3:Sea Movement
+rt.step.4:Naval Battle
+rt.step.5:Land Movement
+rt.step.6:Land Battle
+rt.step.7:End Of Turn
+rt.step.11:Enforce Continental System
+rt.step.12:PAP for France
+rt.step.13:Colonial Trade
+rt.step.14:Disbanding Militia
+rt.step.15:Training Militia
+rt.step.16:Spending Production
+rt.step.17:Placing Units
+rt.step.18:Harsh Campaigns
+rt.step.19:Successful Uprising
+rt.step.20:Lines of Communications
+
+##
+# Territory Info
+##
+ti.title:Territory Info
+ti.regionSelect:Select Region To View
+ti.ownerLabel:Controlled By:
+
+##
+# Placement Panel
+##
+pp.title:Unit Placement
+pp.header:New Units To Place:
+pp.place:placeAction
+pp.remove:removeAction
+
+pp.regionSelect:Select Region To Place Units
+pp.finalize:Confirm Placement
+pp.finalizeAction:finalizeAction
+
+pp.question:Finalize Unit Placement?
+pp.yes:Finalize Placement
+pp.no:Cancel
+
+pp.unitsNotPlaced:Not all of your units have been placed.  Please place all of your units.
+pp.notPlacedTitle:You Have Unplaced Units
+
+pp.waitTurn:Please wait until your turn to finalize placement of your units.
+
+##
+# Purchase Panel (buy panel)
+##
+bp.title:Purchase Window
+bp.pointsAvailable:Production Points Available:
+bp.purchasableUnits:Purchasable Units:
+
+bp.papLabel:Buy PAP(s)
+
+bp.pointsRemaining:Production Points Remaining:
+bp.finalize:Finalize
+bp.final.action:final.action
+bp.reset:Reset
+bp.reset.action:reset.action
+
+bp.yes:Yes, Finalize Purchases
+bp.no:No, Continue Buying
+bp.question:Would you like to finalize your purchases?
+bp.question.title:Finalize Purchases
+
+##
+# Nation Summary Panel
+##
+nationSummary: National Summary
+ns.controllingUser:Controlling User:
+ns.controlledNPNs:Controlled NPNs:
+ns.militaryTitle:Military:
+ns.regionsTitle:Regions:
+ns.productionValue:Production Value:
+ns.productionSaved:Production Saved:
+ns.paps:Political Action Points:
+
+controllingUser.uncontrolled:Uncontrolled
+
+#Form Alliance Ka
+fak.p.yes:Yes, Form Alliances
+fak.no:No
+fak.p.question.1:Would you like to form alliances, at the normal cost, between your newly aquired NPN (
+fak.p.question.2:) and nations you control?
+fak.p.title:Form Alliances?
+
+fak.s.yes:Yes, Form Alliance
+fak.s.question.1:Would you like to form an alliance, at the normal cost, between your newly aquired NPN (
+fak.s.question.2:) and your nation,
+fak.s.title:Form Alliance?
+
+#Inform User of Control Dialog
+control.statement.3:\nYou have been assigned control of
+
+#Control Request Dialog
+control.statement.1:has declared war on
+control.statement.2:, an uncontrolled nation.
+control.request.question:\nWould you like to take control of this nation for zero (0) PAP?
+control.request.yes:Yes, Take Control
+control.request.no:No
+control.title:Control Uncontrolled Nation
+
+#Declare Request Dialog
+declare.request.question:like to declare war on
+declare.request.no:No
+
+#Aliance Request Dialog
+alliance.statement:has requested an alliance with your nation,
+alliance.request.question:like to form an alliance with
+alliance.request.yes:Yes, Form Alliance
+alliance.request.title:Alliance Request Received
+#Alliance Rejected
+alliance.rejected:has rejected your request for an alliance with your nation,
+alliance.rejected.title:Alliance Rejected
+
+#Armistice Request Dialog
+armistice.statement:has requested an armistice with your nation,
+armistice.request.question:like to conclude armistice with
+armistice.request.yes:Yes, Conclude Armistice
+armistice.request.title:Armistice Request Received
+#Armistice Rejected
+armistice.rejected:has rejected your request for an armistice with your nation,
+armistice.rejected.title:Armistice Rejected
+#ControlNPN
+controlNPN.consent:given consent to attempt to gain control of the non-player nation,
+controlNPN.request.title:Control NPN Consent Request
+controlNPN.request.statement.1:would like to attempt to gain control of the non-player nation,
+controlNPN.request.statement.2:\nIf you give your consent
+controlNPN.request.statement.3:will add four (4) to their roll if they attempt control.
+controlNPN.request.question.1:\nWould you like to give your consent for
+controlNPN.request.question.2:to attempt control of
+controlNPN.request.yes:Yes, give consent
+
+#End Step Dialog
+endStep.dRound.0:Are you sure you (
+endStep.dRound.1:) do not want to take a political action, during this diplomatic round?
+endStep.dRound.title:Do Not Take Political Action
+endStep.dRound.yes:Do Not Take Action
+endStep.dRound.no:Take Action
+
+#No Eligible Nations
+noEligibleNations:None of the nations you control are eligible to
+noEligibleNations.title:No Eligible Nations
+#Not Enough Production To Buy
+notEnoughProductionToBuy:does not have enough production to buy any new Military Units or PAPs.
+notEnoughProduct.title:Not Enough Production
+
+failPolitical.title:Political Action not Allowed
+failPolitical.first:You are not allowed to take political actions during
+failPolitical.startOfGame:the start of the game.
+failPolitical.startOfMove:the start of another nations start of movement.
+failPolitical.roll:rolls for PAPs.
+failPolitical.navalBattle:naval battles.
+failPolitical.landBattle:land battles.
+failPolitical.endTurn:the end of a movement turn.
+failPolitical.production:production rounds.
+failPolitical.diplomatic:diplomatic rounds.
+failPolitical.default:The nation you wish to take a political action with does not have enough PAP\n or there are no eligible nations to complete the action with.
+
+# Congress Menu
+congressMenu.title:Peace Congress
+congressMenu.intro:Please choose one of the following actions:
+congress.alreadyAnnexed:, has already annexed a homeland region during this congress and there are\nno other actions available to your nation.  Your nation will be removed from this congress.
+congress.papShortage.2:Peace Congress.  Your nation will be removed from this congress.
+congress.papShortage.1:, does not have enough PAP to take any of the available actions\nduring this
+congress.extinct:, is now extinct!  They may be missed by some..\n\n..or they may not.
+congress.extinct.title:Is Extinct
+congress.selectRegion:The action you have selected requires you to choose at least one region.
+congress.selectRegion.title:Please Select A Region
+congress.annex.info:Please select the region you wish to Annex
+congress.annexConfirm.1:You have selected the following Region to Annex from
+congress.annexConfirm.2:This action will cost you
+congress.annexConfirm.3:, do you wish to Annex this Region?
+congress.annex.yes:Yes, Annex
+congress.annex.title:Confirm Annex Action
+congress.restore.info:Please select the region(s) you wish to Restore
+congress.restoreConfirm.1.single:You have selected the following Region to Restore from
+congress.restoreConfirm.1.plural:You have selected the following Regions to Restore from
+congress.restoreConfirm.2.single:This action will cost you 1 PAP, do you with to Restore this Region?
+congress.restoreConfirm.2.plural:This action will cost you 1 PAP, do you with to Restore these Regions?
+congress.restore.yes:Yes, Restore
+congress.restore.title:Confirm Restore Action
+congress.freeSerf.info.1:Please select the region(s) your nation
+congress.freeSerf.info.2:occupys you wish to Free Russian Serfs
+congress.freeSerf.1.single:You have selected the following Region to Free Russian Serfs:
+congress.freeSerf.1.plural:You have selected the following Regions to Free Russian Serfs:
+congress.freeSerf.2:This action will cost you 1 PAP, do you wish to Free Russian Serfs?
+congress.freeSerf.yes:Yes, Free Russian Serfs
+congress.freeSerf.title:Confirm Free Russian Serfs
+congress.passWarning.1:If you choose to pass, you will no longer be
+congress.passWarning.2:allowed to take actions during this congress
+congress.passConfirm.1:If you pass you will be removed from this congress and
+congress.passConfirm.2:cannot take any other actions during this congress.
+congress.passConfirm.3:Are you sure you want to pass in this congress?
+congress.pass.yes:Yes, Pass
+congress.pass.title:Confirm Pass Action
+congress.regionDefault:Select A Region..
+congress.takeAction.button:Take Action
+congress.takeAction.action:takeAction.action
+
+
+actionSelector.action:actionSelector.action
+actionSelector.default:Choose One Action..
+actionSelector.annex:Annex Region
+actionSelector.restore:Restore Region(s)
+actionSelector.freeSerf:Free Russian Serfs
+actionSelector.pass:Pass
+annexSelector.action:annexSelector.action
+restoreOneSelector.action:restoreOneSelector.action
+restoreTwoSelector.action:restoreTwoSelector.action
+freeSerfOneSelector.action:freeSerfOneSelector.action
+freeSerfTwoSelector.action:freeSerfTwoSelector.action
+freeSerfThreeSelector.action:freeSerfThreeSelector.action
+
+#######################
+###  Game Menu Bar  ###
+#######################
+# Game
+endStep.action:endStep.action
+mySummary.action:mySummary.action
+myCommander.action:myCommander.action
+battleWindow.action:battleWindow.action
+save.action:save.action
+quit.action:quit.action
+quit.title:Quit Napoleon In Europe
+quit.question:Are you sure you want to abandon Europe?
+quit.yes:Yes, Quit
+quit.no:No
+
+# Info
+eventLog.action:eventLog.action
+eventLog.title:Events Log
+
+politicalStatus.title:Political Relationships
+politicalStatus.action:politicalStatus.action
+politicalStatus.neutral:Neutral to all Nations
+politicalStatus.allied:Allied to  --
+politicalStatus.atWar:At War with  --
+politicalStatus.rightPassage:Grants Right of Passage to
+politicalStatus.capital.france:Capital (Paris)  --
+politicalStatus.capital.britain:Capital (London)  --
+politicalStatus.capital.prussia:Capital (Berlin)  --
+politicalStatus.capital.russia.1:Capital (St. Petersburg)  --
+politicalStatus.capital.russia.2:Capital (Moscow)  --
+politicalStatus.capital.ottoman:Capital (Constantinople)  --
+politicalStatus.capital.austria:Capital (Vienna)  --
+politicalStatus.capital.spain:Capital (Madrid)  --
+politicalStatus.captured:Captured
+politicalStatus.annexed:Annexed
+politicalStatus.liberated:Liberated
+
+#nationSummary.action
+#commanderInfo.action
+
+pickANation.title:Pick A Nation
+pickANation.uncontrolledNPNs:<HTML><U>Uncontrolled NPNs</U></HTML>
+pickANation.controlNPN.1:Please pick the nation you
+pickANation.controlNPN.2:wish to take your action with.
+
+# Actions
+
+
+# Help
+def.action:def.action
+def.title:Definitions
+about.action:about.action
+about.title:About
+help.action:help.action
+
+# Terms
+terms.number:2
+term.0:Pieces:
+def.0:One or group of figures used to represent military forces.
+term.1:Troops:
+def.1:One or group of non-General land pieces.
+
+
+#######################
+## Nation Popup Menu ##
+#######################
+# items
+menu.declare:Declare War
+menu.armistice:Request Armistice
+menu.formAlly:Request Alliance
+menu.breakAlly:Break Alliance
+menu.grantRights:Grant Rights of Passage
+menu.rescindRights:Rescind Rights of Passage
+menu.nationSummary:Nation Summary
+menu.commanderInfo:Commander Info
+
+# actions
+declare.action:declare.action
+suePeace.action:suePeace.action
+armistice.action:armistice.action
+formAlly.action:formAlly.action
+breakAlly.action:breakAlly.action
+recruit.action:recruit.action
+annex.action:annex.action
+restore.action:restore.action
+abandon.action:abandon.action
+foment.action:foment.action
+suppress.action:suppress.action
+grantRights.action:grantRights.action
+rescindRights.action:rescindRights.action
+controlNPN.action:controlNPN.action
+nationSummary.action:nationSummary.action
+commanderInfo.action:commanderInfo.action
+
+
+#France has declared war on Russia which has started a diplomatic round.
+#Would you like to take a political action with Spain during this diplomatic round?
+
+no.political:No, Cancel
+no.diplomat:No
+yes.diplomat:Yes, Take Action
+diplomat.title:Take Diplomatic Round Action?
+diplomat.statement:which has started a diplomatic round.
+diplomat.question.1:like to take a political action during this diplomatic round?
+
+# 1  Declare War
+yes.political.0:Yes, Declare War
+question.political.0:Are you sure you want to declare war on
+question.diplomat.0:has declared war on
+title.political.0:Declare War
+
+# 2  Sue for Peace
+yes.political.1:Yes, Sue for Peace
+question.political.1:Would you like to Sue for Peace?
+question.diplomat.1:has sued for peace,
+title.political.1:Sue for Peace
+
+# 3  Conclude Armistice
+yes.political.2:Yes, Request Armistice
+question.political.2:Would you like to request and armistice with
+question.diplomat.2:has concluded an armistice with
+title.political.2:Request Armistice
+
+# 4  Form Alliance
+yes.political.3:Yes, Request Alliance
+question.political.3:Would you like to request an alliance with
+question.diplomat.3:has formed an alliance with
+title.political.3:Request Alliance
+
+# 5  Break Alliance
+yes.political.4:Yes, Break Alliance
+question.political.4:Are you sure you want to break your alliance with
+question.diplomat.4:has broken their alliance with
+title.political.4:Break Alliance
+
+# 6  Recruit Minor Nation
+yes.political.5:Yes Recruit Minor Nation
+question.political.5:Would you like to recruit the minor nation of
+question.diplomat.5:has recruited the minor nation,
+title.political.5:Recruit Minor Nation
+
+# 7  Annex Minor Nation
+yes.political.6:Yes, Annex Minor Nation
+question.political.6:Would you like to annex the minor nation of
+question.diplomat.6:has annexed the minor nation,
+title.political.6:Annex Minor Nation
+
+# 8  Restore Region
+yes.political.7:Yes, Restore Region
+question.political.7:Would you like to restore the ownership of the region
+question.diplomat.7:has restored ownership in the region of
+title.political.7:Restore Region
+
+# 9  Abandon Region
+yes.political.8:Yes, Abandon Region
+question.political.8:Would you like to abandon ownership of
+question.diplomat.8:has abandoned ownership in the region of
+title.political.8:Abandon Region
+
+# 10 Foment Uprising
+yes.political.9:Yes, Foment Uprising
+question.political.9:Would you like to foment an uprising in
+title.political.9:Foment Uprising
+
+# 11 Suppress Uprising
+yes.political.10:Yes, Suppress Uprising
+question.political.10:Suppress the uprising in the region of
+question.diplomat.10:has suppressed the uprising in the region of
+title.political.10:Suppress Uprising
+
+# 12 Grant Right of Passage
+yes.political.11:Yes, Grant Right of Passage
+question.political.11:Would you like to grant right of passage to
+question.diplomat.11:has granted right of passage to
+title.political.11:Grant Right of Passage
+
+# 13 Rescind Right of Passage
+yes.political.12:Yes, Rescind Right of Passage
+question.political.12:Would you like to rescind right of passage to
+question.diplomat.12:has rescinded right of passage to
+title.political.12:Rescind Right of Passage
+
+# 14 Enforce Continental System
+yes.political.13:Yes, Enforce Continental System
+question.political.13:Would you like to Enforce Continental System on Great Britain?
+title.political.13:Enforce Continental System
+
+# 15 Control Non-Player Nation
+yes.political.14:Yes, Control Non-Player Nation
+question.political.14:Would you like to attempt to gain control of the non-player nation
+question.diplomat.14:has gained control of the non-player nation,
+title.political.14:Control Non-Player Nation
+
+# 16 Release Control of Non-Player Nation
+yes.political.15:Yes, Release Control
+question.political.15:Would you like to release control of the non-player nation
+question.diplomat.15:has released control of the non-player nation,
+title.political.15:Release Control of NPN
+
+title.political.dRound:Diplomatic Round
+
+############
+## Events ##
+############
+event.war:declares war on
+event.sue:sues for peace from
+event.sue.spoils.1:received 2 PAPs,
+event.sue.spoils.2:received 1 PAP from spoils of war.
+event.arm:agree to conclude an armistice.
+event.ally:agree to form an alliance.
+event.break:ends their alliance with
+event.recruit:recruits the minor nation of
+event.annex:annexes the minor nation of
+event.restore:back to it's local government from
+event.abandon:abandons the region of
+event.foment.1:funded by an unknown source, the
+event.foment.2:enters into political unrest.
+event.suppress:forces suppress the uprising in the region of
+event.success:successfully overthrew the occupying
+event.rights:right of passage through
+event.enforce:France enforce the Continental System on Great Britain.
+event.control:gains control of the non-player nation,
+event.release:releases control of the non-player nation,
+event.failControl:failed to control the non-player nation,
+event.liberate:forces liberate their capital,
+event.ppGiveAway:Great Britain gives production points to
+event.port.0:naval forces are defeated in an attack against the Port of
+event.port.1:naval forces defend an attack against the Port of
+event.battle:forces in a major battle at
+event.fail:fails to make their commitment check.
+event.annexRegion.0:owned region of
+event.annexRegion.1:homeland region of
+event.free:free the Russian Serfs in the region of
+event.eliminated:has been eliminated.
+
+event.gameStart.1:Strategy is the art of making use of time and space. Space we can recover; lost time, never. - Napoleon
+
+##################
+## Region Names ##
+##################
+
+numOfLandRegions:95
+numOfSeaRegions:16
+numOfPorts:35
+
+#Captials
+region.Paris:Paris
+region.London:London
+region.Berlin:Berlin
+region.Petersburg:St. Petersburg
+region.Moscow:Moscow
+region.Constantinople:Constantinople
+region.Vienna:Vienna
+region.Madrid:Madrid
+
+#French Homelands
+Burgundy:Burgundy
+CentralFrance:Central France
+Provence:Provence
+Gascony:Gascony
+Vendee:Vendee
+Brittany:Brittany
+Normandy:Normandy
+Picardy:Picardy
+Lorraine:Lorraine
+
+#British Homelands
+Cornwall:Cornwall
+Wales:Wales
+Midlands:Midlands
+Scotland:Scotland
+Highlands:Highlands
+Ulster:Ulster
+Ireland:Ireland
+
+#Prussian Homelands
+Silesia:Silesia
+Pomerania:Pomerania
+EastPrussia:East Prussia
+
+#Russian Homelands
+Estonia:Estonia
+Courland:Courland
+Lithuania:Lithuania
+Volhynia:Volhynia
+Ukraine:Ukraine
+Crimea:Crimea
+DonBasin:Don Basin
+Caucasus:Caucasus
+NorthernRussia:Northern Russia
+Novgorod:Novgorod
+MinskSmolensk:Minsk-Smolensk
+
+#Ottoman Homelands
+Anatolia:Anatolia
+Ankara:Ankara
+SouthernTurkey:Southern Turkey
+Armenia:Armenia
+Syria:Syria
+Arabia:Arabia
+
+#Austrian Homelands
+Tyrol:Tyrol
+Illyria:Illyria
+Hungary:Hungary
+Transylvania:Transylvania
+Galicia:Galicia
+Bohemia:Bohemia
+
+#Spainish Homelands
+Asturias:Asturias
+Navarre:Navarre
+Catalonia:Catalonia
+Andalusia:Andalusia
+WesternSpain:Western Spain
+
+#Spanish Misc
+Portugal:Portugal
+Gibraltar:Gibraltar
+
+#Central Europe
+Switzerland:Switzerland
+BadenWurtt:Baden-Wurtt
+Bavaria:Bavaria
+Belgium:Belgium
+HesseBerg:Hesse-Berg
+Thuringia:Thuringia
+Saxony:Saxony
+Westphalia:Westphalia
+Holland:Holland
+
+#Northern Europe
+Hanover:Hanover
+Mecklenburg:Mecklenburg
+Denmark:Denmark
+Norway:Norway
+Sweden:Sweden
+Finland:Finland
+
+#Grand Duchy of Warsaw
+GrandDuchyWarsaw:Grand Duchy of Warsaw
+
+#Eastern Europe
+Moldavia:Moldavia
+Wallachia:Wallachia
+Bulgaria:Bulgaria
+Serbia:Serbia
+Bosnia:Bosnia
+Albania:Albania
+Macedonia:Macedonia
+Greece:Greece
+
+#Southern Europe - Italy
+Sicily:Sicily
+Naples:Naples
+PapalStates:Papal States
+Tuscany:Tuscany
+Venice:Venice
+Milan:Milan
+Piedmont:Piedmont
+
+#Africa
+Morocco:Morocco
+Oran:Oran
+Algeria:Algeria
+Tunisia:Tunisia
+Tripolitania:Tripolitania
+Cyrenaica:Cyrenaica
+Egypt:Egypt
+
+#Sea Regions
+GulfOfBothnia:Gulf of Bothnia
+BalticSea:Baltic Sea
+NorthSea:North Sea
+NorthAtlantic:North Atlantic
+IrishSea:Irish Sea
+EnglishChannel:English Channel
+BayOfBiscay:Bay of Biscay
+MidAtlantic:Mid Atlantic
+BarbaryCoast:Barbary Coast
+GulfOfMarseilles:Gulf of Marseilles
+TyrrhenianSea:Tyrrhenian Sea
+IonianSea:Ionian Sea
+AdriaticSea:Adriatic Sea
+EasternMediterranean:Eastern Mediterranean
+AegeanSea:Aegean Sea
+BlackSea:Black Sea
+
+#Port Names
+port.petersburg:Kronstadt
+port.swedenNorth:Stockholm
+port.swedenSouth:Karlskrona
+port.pomerania:Danzig
+port.denmark:Copenhagen
+port.holland:Flushing
+port.belgium:Antwerp
+port.londonEast:Yarmouth
+port.londonWest:Bristol
+port.londonSouth:Portsmouth
+port.cornwall:Plymouth
+port.midlands:Liverpool
+port.ireland:Waterford
+port.picardy:Boulogne
+port.brittany:Brest
+port.vendee:Rochefort
+port.asturias:Ferrol
+port.portugal:Lisbon
+port.westSpain:Cadiz
+port.gibraltar:Gibraltar
+port.andalusia:Cartegena
+port.provence:Toulon
+port.milan:Genoa
+port.naples:Naples
+port.sicily:Palermo
+port.venice:Venice
+port.illyria:Trieste
+port.macedonia:Corfu
+port.greece:Athens
+port.constantinople:Golden Horn
+port.crimea:Sevastopol
+port.anatoliaNorth:Izmit
+port.anatoliaSouth:Rhodes
+port.egypt:Alexandria
+port.algiers:Algiers

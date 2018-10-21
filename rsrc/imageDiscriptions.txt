@@ -1,0 +1,27 @@
+~~~~~~~~~~
+|      Map       |
+~~~~~~~~~~
+The Map - image of the map in high resolution, hopefully region names will be legable.
+Region  Highlights - outlines of each region, land.
+Sea Highlights - overlay to change the color of the sea region. (not how I want to do this)
+Port Symbols - This will be part of the 'Map'
+Flag bearers - Image for a flag bearer for each nation.
+Fleet marker - Image for a fleet marker for each nation.
+Portrait for each Nation - Face of the leader of that nation.
+Nations Controlled Regions - Shade the regions controlled? Outline around region?
+
+
+~~~~~~~~~~~~~~~
+|    Chat Chooser     |
+~~~~~~~~~~~~~~~
+Normal State - The default state when not selected or a message is not received or unread
+Selected State - State when the chatNation is selected.  User is viewing chat window if this nation.
+Activated State - When a message is received.  Flash between this state and unread state for a couple seconds.
+Unread State - after a message is received display this state after flashing activating state for a couple seconds.
+Background - Maybe just a color and not an image.
+
+~~~~~~~~~~~~~~
+|     RoundTurn     |
+~~~~~~~~~~~~~~
+Background - Maybe just a color and not an image. 
+Round/Turn/Production labels - Images for all these labels to keep consistent dimensions
